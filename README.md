@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🚀 I aspire to work in the animation industry helping use technology to tell stories that inspire others
 - 👯 I’m looking to collaborate on any creative projects!
 - 🤔 I’m looking for help with connecting with
-- 📈 Check out [Click Creative] (https://www.clickcreative.xyz) my LLC, and reach out if I can help with digital media for your projects
+- 📈 Check out [Click Creative] (https://clickcreative.xyz) my LLC, and reach out if I can help with digital media for your projects
 - 📫 How to reach me: calvinschaul@gmail.com
 - 😄 Pronouns: He/Him/His
 
