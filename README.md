@@ -1,6 +1,6 @@
 ### Hello! My name is Calvin 👋
 
-- 🏫 I'm currently enrolled at Marquette University. I'm studying computer engineering with a focus in software. I'm also taking a graduate course at University of Wisconsin-Milwaukee called Advanced Computer Graphics and Animation
+- 🏫 I'm currently enrolled at Marquette University. I'm studying computer engineering with a focus in software. I also took a graduate course at University of Wisconsin-Milwaukee called Advanced Computer Graphics and Animation
 - 🔭 I’m currently working on bulding my resume for jobs that creatively apply software
 - 🚀 I aspire to work in the animation industry helping use technology to tell stories that inspire others
     - 🎥 Check out this talk I gave on [animation and telling authentic stories](https://youtu.be/uS36q_kWbPQ)
