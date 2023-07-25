@@ -1,6 +1,7 @@
 ### Hello! My name is Calvin 👋
 
-- 💼 I recently wrapped production as a Crowds Artist at Walt Disney Animation Studios on [Strange World](https://disneyanimation.com/films/).
+- 💼 I am currently a Crowds Artist at DreamWorks Animation working on Kung Fu Panda 4 (coming Spring 2023). Previously at Disney Animation.
+    - 🎥 Here's a [demo reel from my work on Disney's Strange World] (https://www.clickcreative.xyz/portfolio/calvin-schaul-strange-world-demo-reel)
 - 🏫 I'm a recent Computer Engineering graduate from Marquette University. My degree focused on software engineering and I also studied Innovation Leadership with [Marquette's E-Lead Program](https://www.marquette.edu/innovation-alley/e-lead/). I also took a graduate course at University of Wisconsin-Milwaukee called Advanced Computer Graphics and Animation
 - 🚀 I aspire to continue work in the animation industry helping use technology to tell stories that inspire others
     - 🎥 Check out this talk I gave on [animation and telling authentic stories](https://youtu.be/uS36q_kWbPQ)
