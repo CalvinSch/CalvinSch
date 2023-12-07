@@ -11,5 +11,5 @@
 - 📫 How to reach me: calvinschaul@gmail.com
 - 😄 Pronouns: He/Him/His
 
-#Connect with me on LinkedIn
+# Connect with me on LinkedIn
 <a href="https://www.linkedin.com/in/cschaul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
