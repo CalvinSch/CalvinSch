@@ -3,7 +3,8 @@
 - 💼 I am currently a Creative Technologist at Duolingo. My background is in feature animation at DreamWorks and Disney Animation.
     - 🎥 Here's a [demo reel from my work on Disney's Strange World](https://www.clickcreative.xyz/portfolio/calvin-schaul-strange-world-demo-reel)
     - Films I've worked on: Strange World (2022), Trolls Band Together (2023), Kung Fu Panda 4 (2024)
-- 🏫 I'm a Computer Engineering graduate from Marquette University. My degree focused on software engineering and I also studied Innovation Leadership with [Marquette's E-Lead Program](https://www.marquette.edu/innovation-alley/e-lead/). I also took a graduate course at University of Wisconsin-Milwaukee called Advanced Computer Graphics and Animation
+-  🎒 I'm a second year M.S Student at USC's Iovine and Young Academy studying Integrated Design, Business, and Technology.
+    - 🏫 I'm a Computer Engineering graduate from Marquette University. I also studied Innovation Leadership with [Marquette's E-Lead Program](https://www.marquette.edu/innovation-alley/e-lead/). For fun I took a graduate course at University of Wisconsin-Milwaukee called Advanced Computer Graphics and Animation.
 - 🚀 I aspire to continue work in the animation industry helping use technology to tell stories that inspire others
     - 🎥 Check out this talk I gave on [animation and telling authentic stories](https://youtu.be/uS36q_kWbPQ)
 - 👯 I’m looking to collaborate on any creative projects!
